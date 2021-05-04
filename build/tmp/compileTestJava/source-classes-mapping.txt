@@ -1,0 +1,6 @@
+getMethods/getMethod.java
+ getMethods.getMethod
+postMethods/postMethod.java
+ postMethods.postMethod
+putPatchDeleteMethods/putPatchDeleteMethods.java
+ putPatchDeleteMethods.putPatchDeleteMethods
